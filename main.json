@@ -2,7 +2,7 @@
 "profiles": {
 "kakoitolinuxuser": {
 "button_text": "This is the Choice of Steins;Gate",
-"button_color": "#FF2C55",
+"button_color": "#FFFFFF",
 "accent_color": "#FF2C55"
 },
 "username_example": {
