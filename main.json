@@ -1,14 +1,12 @@
 {
-"profiles": {
-"kakoitolinuxuser": {
-"button_text": "This is the Choice of Steins;Gate",
-"button_color": "#FFFFFF",
-"accent_color": "#FF2C55"
-},
-"username_example": {
-"button_text": "Дружба",
-"button_color": "#20D5EC",
-"accent_color": "#20D5EC"
-}
-}
+  "nicknames": {
+    "kakoitolinuxuser": {
+      "accent": "#FF0055",
+      "background": "#121212"
+    },
+    "another_user": {
+      "accent": "#00E5FF",
+      "background": "#000000"
+    }
+  }
 }
